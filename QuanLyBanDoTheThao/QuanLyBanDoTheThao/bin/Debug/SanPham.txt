@@ -1,0 +1,9 @@
+SP001#Ao SportLink#XL#500000#Xam#AoThun#Ao#1233
+SP002#Balo Barca#40#400000#XanhDo#4 ngan#Balo#1346
+SP003#Ao Nike#L#500000#XanhReu#AoPhong#Ao#934
+SP004#Giay ConVert#40#800000#Trang#CoNgan#Giay#520
+SP005#Quan Adidas#XL#500000#Trang#Short#Quan#513
+SP006#Giay Nike#42#650000#Xam#DayBuoc#Giay#896
+SP007#Giay Nike#32#400000#Den#Sport#Giay#438
+SP008#Giay Puma#43#2100000#Vang#De cao#Giay#521
+SP009#Ao Adidas#XXL#750000#Den#AoPhong#Ao#120

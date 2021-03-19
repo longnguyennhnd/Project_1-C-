@@ -1,0 +1,21 @@
+D:\Do_An_1\QuanLyBanDoTheThao\QuanLyBanDoTheThao\bin\Debug\QuanLyBanDoTheThao.exe.config
+D:\Do_An_1\QuanLyBanDoTheThao\QuanLyBanDoTheThao\obj\Debug\QuanLyBanDoTheThao.exe
+D:\Do_An_1\QuanLyBanDoTheThao\QuanLyBanDoTheThao\obj\Debug\QuanLyBanDoTheThao.pdb
+D:\Do_An_1\QuanLyBanDoTheThao\QuanLyBanDoTheThao\bin\Debug\QuanLyBanDoTheThao.exe
+D:\Do_An_1\QuanLyBanDoTheThao\QuanLyBanDoTheThao\bin\Debug\QuanLyBanDoTheThao.pdb
+D:\Do_An_1\QuanLyBanDoTheThao\QuanLyBanDoTheThao\obj\Debug\QuanLyBanDoTheThao.csprojAssemblyReference.cache
+D:\Do_An_1\QuanLyBanDoTheThao\QuanLyBanDoTheThao\obj\Debug\QuanLyBanDoTheThao.csproj.CoreCompileInputs.cache
+E:\Do_An_1\QuanLyBanDoTheThao\QuanLyBanDoTheThao\bin\Debug\QuanLyBanDoTheThao.exe.config
+E:\Do_An_1\QuanLyBanDoTheThao\QuanLyBanDoTheThao\bin\Debug\QuanLyBanDoTheThao.exe
+E:\Do_An_1\QuanLyBanDoTheThao\QuanLyBanDoTheThao\bin\Debug\QuanLyBanDoTheThao.pdb
+E:\Do_An_1\QuanLyBanDoTheThao\QuanLyBanDoTheThao\obj\Debug\QuanLyBanDoTheThao.csprojAssemblyReference.cache
+E:\Do_An_1\QuanLyBanDoTheThao\QuanLyBanDoTheThao\obj\Debug\QuanLyBanDoTheThao.csproj.CoreCompileInputs.cache
+E:\Do_An_1\QuanLyBanDoTheThao\QuanLyBanDoTheThao\obj\Debug\QuanLyBanDoTheThao.exe
+E:\Do_An_1\QuanLyBanDoTheThao\QuanLyBanDoTheThao\obj\Debug\QuanLyBanDoTheThao.pdb
+C:\Users\Long Nguyen\Desktop\Do_An_1\QuanLyBanDoTheThao\QuanLyBanDoTheThao\bin\Debug\QuanLyBanDoTheThao.exe.config
+C:\Users\Long Nguyen\Desktop\Do_An_1\QuanLyBanDoTheThao\QuanLyBanDoTheThao\bin\Debug\QuanLyBanDoTheThao.exe
+C:\Users\Long Nguyen\Desktop\Do_An_1\QuanLyBanDoTheThao\QuanLyBanDoTheThao\bin\Debug\QuanLyBanDoTheThao.pdb
+C:\Users\Long Nguyen\Desktop\Do_An_1\QuanLyBanDoTheThao\QuanLyBanDoTheThao\obj\Debug\QuanLyBanDoTheThao.csprojAssemblyReference.cache
+C:\Users\Long Nguyen\Desktop\Do_An_1\QuanLyBanDoTheThao\QuanLyBanDoTheThao\obj\Debug\QuanLyBanDoTheThao.csproj.CoreCompileInputs.cache
+C:\Users\Long Nguyen\Desktop\Do_An_1\QuanLyBanDoTheThao\QuanLyBanDoTheThao\obj\Debug\QuanLyBanDoTheThao.exe
+C:\Users\Long Nguyen\Desktop\Do_An_1\QuanLyBanDoTheThao\QuanLyBanDoTheThao\obj\Debug\QuanLyBanDoTheThao.pdb

@@ -1,0 +1,7 @@
+NV01#Nguyen Van Long#Male#1999#Giam Doc#Nam Dinh#0947816387
+NV02#Ha Ngoc Anh#FeMale#1998#Thu Ky#HungYen#0853206709
+NV03#Pham Xuan Tung#Male#1999#QL Nhap#BacGiang#0239374437
+NV04#Hoang Cong Manh#Male#1999#QL Xuat#BacNinh#0976723829
+NV05#Le Xuan Thang#FeMale#1999#Bao Ve#HungYen#0953717472
+NV06#Dang Thu Huyen#Female#1998#Lao Cong#ThaiBinh#0928271364
+NV07#Tran Van Toan#Male#1999#Ban Hang#NamDinh#0981736173
